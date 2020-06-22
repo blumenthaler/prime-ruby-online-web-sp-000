@@ -2,7 +2,7 @@
 def prime?(number)
   start = 2
   if number > 1
-      test_number = 
+      range = 
   
   else
     false 
