@@ -4,6 +4,7 @@ def prime?(number)
   if number > 1
       range = 
   
+  number = number % 2 == 0
   else
     false 
   end
