@@ -1,8 +1,9 @@
 # Add  code here!
 def prime?(number)
   start = 2
-  if !number % (2-100)
-    true
+  if number > 2
+      
+  
   else
     false 
   end
